@@ -19,7 +19,7 @@ img{
 
 img:hover{
 
-  content: url("../images/Img-Il-Biscotto-Sbrisolotto_\(600x600\).png" );
+  content: url("Img-Il-Biscotto-Sbrisolotto_\(600x600\).png" );
   
   transform:translateY(-40px);
   opacity: 100%;

@@ -1,0 +1,70 @@
+.parent1{
+    display: flex;
+    margin-top: 100px;
+  justify-content: center;
+  gap: 60px;
+}
+img{
+    width: 200px;
+    z-index: 6;
+  transition: transform 1s ease-in ;
+    
+}
+
+.parent2{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+img:hover{
+
+  content: url("../images/Img-Il-Biscotto-Sbrisolotto_\(600x600\).png" );
+  
+  transform:translateY(-40px);
+  opacity: 100%;
+ 
+
+    
+
+
+}
+
+hr{
+  position: relative;
+  top: -50px;
+  border: none;
+  height: 2px;
+  background: black;
+  z-index: -1;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.parent22{
+  display: flex;
+  justify-content: center;
+  gap: 90px;
+}
+a{
+  color:black;
+  text-decoration: none;
+  background-color: white;
+  padding:10px;
+  border: 2px solid black;
+  border-radius:20rem;
+}
+a:hover{
+  background-color: black;
+  color:white;
+}
+span{
+  margin-right: 10px;
+}
+.mahii{
+  margin-top: 50px;
+}
+
+
+
+
+
